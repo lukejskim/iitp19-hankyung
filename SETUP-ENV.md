@@ -14,7 +14,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://www.seleniumhq.org/projects/webdriver/">
-            <img src="../images/jupyter.jpg" width="150" />
+            <img src="./images/jupyter.jpg" width="150" />
             </a>
         </td>
         <td width="800">
@@ -52,7 +52,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://www.seleniumhq.org/projects/webdriver/">
-            <img src="../images/SeleniumHQ-logo.png" width="150" />
+            <img src="./images/SeleniumHQ-logo.png" width="150" />
             </a>
         </td>
         <td width="800">
@@ -89,7 +89,7 @@
     <tr align="left">
         <td width="200">
             <a href="http://konlpy.org/ko/v0.5.0/install/">
-            <img src="../images/konlpy.png" width="150" />
+            <img src="./images/konlpy.png" width="150" />
             </a>
         </td>
         <td width="800">
@@ -119,7 +119,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://www.oracle.com/technetwork/java/javase/downloads/">
-            <img src="../images/java-se-downloads-1612441.gif" width="150" />
+            <img src="./images/java-se-downloads-1612441.gif" width="150" />
             </a>
         </td>
         <td width="800">
@@ -147,7 +147,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://notebooks.azure.com/">
-            <img src="../images/microsoft.jpg" width="100" />
+            <img src="./images/microsoft.jpg" width="100" />
             </a>
         </td>
         <td width="800">
