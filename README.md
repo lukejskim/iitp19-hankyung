@@ -77,7 +77,9 @@
 - 14-1. [NLP WordCount - 법관련 국회의안           ][pkg-d1]
 - 14-2. [NLP WordCloud - 동물보호법                ][pkg-d2]
 - 14-3. [NLP WordCloud - 대통령연설문              ][pkg-d3]
-- 14-4. [NLP WordCloud - Masking Kor Version       ][pkg-d4]
+- 14-4. [NLP WordCloud - Masking Eng Version 1/2   ][pkg-d41]
+- 14-4. [NLP WordCloud - Masking Eng Version 2/2   ][pkg-d42]
+- 14-5. [NLP WordCloud - Masking Kor Version       ][pkg-d5]
 
 
 [pkg-11]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PB_DA_101_Review_DataType.html               "Go pkg-11"
@@ -130,7 +132,9 @@
 [pkg-d1]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_713_NLP_kobill_v2.html                     "Go pkg-d1"
 [pkg-d2]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_740_KoNLPy_WordCloud_동물보호법_v3.html    "Go pkg-d2"
 [pkg-d3]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_750_KoNLPy_WordCloud_대통령연설문_v2.html  "Go pkg-d3"
-[pkg-d4]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_770_WordCloud_이미지마스킹_v3.html         "Go pkg-d4"
+[pkg-d41]: https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_760_NLP_WordCloud_Eng_Alice_v3-1.html      "Go pkg-d41"
+[pkg-d42]: https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_760_NLP_WordCloud_Eng_Alice_v3-2.html      "Go pkg-d42"
+[pkg-d5]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/iitp19-hankyung/blob/master/notebook/html/PF_DA_770_WordCloud_이미지마스킹_v3.html         "Go pkg-d5"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
